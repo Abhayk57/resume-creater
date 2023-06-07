@@ -1,0 +1,239 @@
+{
+  "api": [
+    {
+      "id": 793792270099029,
+      "profile": {
+        "name": "Abhay Kadams",
+        "currentDesignation": "Full Stack Developer",
+        "location": "Mumbais",
+        "email": "kadamabhay40@gmail.com",
+        "phone": "7738259548",
+        "website": "www.google.com"
+      },
+      "aboutMe": "As a Civil Engineer with 3 years of experience in project management, I \nhave transitioned into the field of Full Stack Web Development. My career \ndevelopment plan revolves around leveraging my existing engineering \nknowledge, acquiring programming skills, gaining practical experience, \ncontinuous learning, networking, seeking mentorship and embracing \ngrowth opportunities.",
+      "academics": [
+        {
+          "id": "",
+          "schoolName": "Vartak",
+          "degree": "HSC",
+          "from": "2011",
+          "to": "2013",
+          "description": "no"
+        }
+      ],
+      "Experience": [
+        {
+          "id": 141923333922258,
+          "designation": "Project executive",
+          "organization": "Miraj entertainment Limited",
+          "location": "Mumbai",
+          "from": "2018",
+          "to": "2021",
+          "description": "no"
+        }
+      ],
+      "Projects": [
+        {
+          "id": 402950824960777,
+          "title": "Blink it Clone",
+          "url": "https://main--bucolic-heliotrope-70e301.netlify.app/",
+          "from": "2023",
+          "to": "2023",
+          "description": "no"
+        }
+      ],
+      "Skills": [
+        {
+          "id": 737250376125504,
+          "skill": "Interpersonal skill",
+          "rating": "3"
+        },
+        {
+          "id": 623597991982090,
+          "skill": "react",
+          "rating": "4"
+        }
+      ]
+    },
+    {
+      "id": 793792270099030,
+      "profile": {
+        "name": "Shital Kadam",
+        "currentDesignation": "dasdas",
+        "location": "dasdasd",
+        "email": "dasd",
+        "phone": "dasd",
+        "website": "dasd"
+      },
+      "aboutMe": "sadasd",
+      "academics": [
+        {
+          "id": 873044326116903,
+          "schoolName": "Vartak",
+          "degree": "HSC",
+          "from": "2011",
+          "to": "2013",
+          "description": "dasdasdas"
+        }
+      ],
+      "Experience": [
+        {
+          "id": 482745684814175,
+          "designation": "dasd",
+          "organization": "dasda",
+          "location": "dasd",
+          "from": "dasd",
+          "to": "dasd",
+          "description": "dasdsadsa"
+        }
+      ],
+      "Projects": [
+        {
+          "id": 538057188164757,
+          "title": "dasdasd",
+          "url": "dasdasd",
+          "from": "dasdas",
+          "to": "dasdsa",
+          "description": "dasdasd"
+        }
+      ],
+      "Skills": [
+        {
+          "id": 66688261884149,
+          "skill": "dasdas",
+          "rating": "2"
+        }
+      ]
+    },
+    {
+      "id": 793792270099031,
+      "profile": {
+        "name": "John doe",
+        "currentDesignation": "Full stack developer",
+        "location": "Mumbai",
+        "email": "kadamabhay40@gmail.com",
+        "phone": "122345567899",
+        "website": "www.google.com"
+      },
+      "aboutMe": "https://github.com/AbhayKadam57/ResumeCrafter.git",
+      "academics": [
+        {
+          "id": 642203651602519,
+          "schoolName": "Vartak",
+          "degree": "HSC",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        }
+      ],
+      "Experience": [
+        {
+          "id": 890339962260479,
+          "designation": "MIrak",
+          "organization": "Academics",
+          "location": "Mumbai",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        }
+      ],
+      "Projects": [
+        {
+          "id": 497178206332276,
+          "title": "asd",
+          "url": "dasd",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        }
+      ],
+      "Skills": [
+        {
+          "id": 865527224637382,
+          "skill": "Interpersonal skill",
+          "rating": "4"
+        }
+      ]
+    },
+    {
+      "id": 793792270099032,
+      "profile": {
+        "name": "Chris Jordan",
+        "currentDesignation": "Full stack developer",
+        "location": "Mumbai",
+        "email": "kadamabhay40@gmail.com",
+        "phone": "122345567899",
+        "website": "www.google.com"
+      },
+      "aboutMe": "setAcademics",
+      "academics": [
+        {
+          "id": 642203651602519,
+          "schoolName": "Vartak",
+          "degree": "HSC",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        },
+        {
+          "id": 940476645231293,
+          "schoolName": "Vartak",
+          "degree": "HSC",
+          "from": "2013",
+          "to": "2017",
+          "description": "setAcademics"
+        }
+      ],
+      "Experience": [
+        {
+          "id": 890339962260479,
+          "designation": "MIrak",
+          "organization": "Academics",
+          "location": "Mumbai",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        },
+        {
+          "id": 196018492444396,
+          "designation": "MIrak",
+          "organization": "Academics",
+          "location": "Mumbais",
+          "from": "2013",
+          "to": "2017",
+          "description": "setAcademics"
+        }
+      ],
+      "Projects": [
+        {
+          "id": 497178206332276,
+          "title": "asd",
+          "url": "dasd",
+          "from": "2011",
+          "to": "2013",
+          "description": "https://github.com/AbhayKadam57/ResumeCrafter.git"
+        },
+        {
+          "id": 1146563836705315,
+          "title": "dasdsad",
+          "url": "dasd",
+          "from": "2013",
+          "to": "2015",
+          "description": "setAcademics"
+        }
+      ],
+      "Skills": [
+        {
+          "id": 865527224637382,
+          "skill": "Interpersonal skill",
+          "rating": "4"
+        },
+        {
+          "id": 1114603028760108,
+          "skill": "dasdas",
+          "rating": "5"
+        }
+      ]
+    }
+  ]
+}
